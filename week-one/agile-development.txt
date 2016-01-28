@@ -89,4 +89,55 @@ already.
 v5.5.0
 
 6. Copy below all of the output from `npm install http-server -g`:
+npm WARN checkPermissions Missing write access to /usr/lib/node_modules
+/usr/lib
+└─┬ http-server@0.8.5 
+  ├── colors@1.0.3 
+  ├── corser@2.0.0 
+  ├─┬ ecstatic@0.7.6 
+  │ ├── he@0.5.0 
+  │ ├── mime@1.3.4 
+  │ ├── minimist@1.2.0 
+  │ └── url-join@0.0.1 
+  ├─┬ http-proxy@1.13.0 
+  │ ├── eventemitter3@1.1.1 
+  │ └── requires-port@1.0.0 
+  ├── opener@1.4.1 
+  ├─┬ optimist@0.6.1 
+  │ ├── minimist@0.0.10 
+  │ └── wordwrap@0.0.3 
+  ├─┬ portfinder@0.4.0 
+  │ ├── async@0.9.0 
+  │ └─┬ mkdirp@0.5.1 
+  │   └── minimist@0.0.8 
+  └─┬ union@0.4.4 
+    └── qs@2.3.3 
 
+npm ERR! Linux 4.3.3-3-ARCH
+npm ERR! argv "/usr/bin/node" "/usr/bin/npm" "install" "http-server" 
+"-g"
+npm ERR! node v5.5.0
+npm ERR! npm  v3.5.3
+npm ERR! path /usr/lib/node_modules
+npm ERR! code EACCES
+npm ERR! errno -13
+npm ERR! syscall access
+
+npm ERR! Error: EACCES: permission denied, access 
+'/usr/lib/node_modules'
+npm ERR!     at Error (native)
+npm ERR!  { [Error: EACCES: permission denied, access 
+'/usr/lib/node_modules']
+npm ERR!   errno: -13,
+npm ERR!   code: 'EACCES',
+npm ERR!   syscall: 'access',
+npm ERR!   path: '/usr/lib/node_modules' }
+npm ERR! 
+npm ERR! Please try running this command again as root/Administrator.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     
+/home/jordan/Documents/itmd362/itmd362-pp/week-one/npm-debug.log
+
+
+# Note: I will try this with sudo next
