@@ -48,6 +48,10 @@ table {
 }
 
 /* end CSS Reset */
+
+/* My CSS */
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
 #info{
   font-family: 'Droid Sans', sans-serif;
 }
