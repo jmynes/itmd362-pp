@@ -67,17 +67,17 @@ label::after {
 
 #wrapper {
   display: block;
-  width: 200px;
-  text-align: center;
   margin-top: 5em;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+  width: 200px;
 }
 
 input, select, textarea{
-  width: 100%;
   margin: auto;
   margin-top: 1ex;
+  width: 100%;
 }
 
 input[type=submit], input[type=reset] {
