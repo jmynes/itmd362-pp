@@ -83,3 +83,7 @@ input, select, textarea{
 input[type=submit], input[type=reset] {
   width: 50%;
 }
+
+input[type=submit]:hover, input[type=reset]:hover {
+  color: grey;
+}
