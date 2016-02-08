@@ -52,6 +52,12 @@ table {
 /* My CSS */
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 
+label::after {
+
+  content: ': ';
+
+}
+
 #info{
   font-family: 'Droid Sans', sans-serif;
 }
