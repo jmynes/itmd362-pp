@@ -71,7 +71,7 @@ label::after {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 200px;
+  width: 15em;
 }
 
 input, select, textarea{
