@@ -78,10 +78,6 @@ input, select, textarea{
   margin: auto;
 }
 
-input[type=submit] {
-  text-align: center;
-}
-
-input[type=reset] {
-  text-align: center;
+input[type=submit], input[type=reset] {
+  width: 50%;
 }
