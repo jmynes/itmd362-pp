@@ -68,17 +68,17 @@ label::after {
   display: block;
   width: 200px;
   text-align: center;
-  margin-left:auto;
-  margin-right:auto;
+  margin-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 input, select, textarea{
-  width:100%;
+  width: 100%;
   margin: auto;
 }
 
 input[type=submit] {
-  margin-top:auto;
   text-align: center;
 }
 
