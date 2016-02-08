@@ -59,5 +59,15 @@ label::after {
 }
 
 #info{
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Droid Sans';
+}
+
+#wrapper {
+  margin: 0 auto;
+  width: 200px;
+}
+
+input, select, textarea{
+  width:100%;
+  box-sizing:border-box;
 }
