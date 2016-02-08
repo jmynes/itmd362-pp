@@ -75,6 +75,7 @@ label::after {
   text-align: center;
   width: 15em;
   padding: 2em;
+  background-color: #F0F8FF; /* aliceblue */
   border: 1px solid #1d1d1d;
 }
 
