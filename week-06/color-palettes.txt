@@ -31,8 +31,11 @@ their brand on their favorite social media, and may be reminiscent of "superfood
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: Complementary.png
+Explanation of your color choices: I chose to include green because of its general association with cash.
+Gold would've also been an acceptable choice, but is a bit brighter and more tiring on the eyes than
+I had intended on going with. A deep burgundy red rather than reddish-purple looked better to me as a
+complementary color, and resulted in a closer shade of green to what I was going for.
 
 * A triadic palette for a website that offers games for children.
 
