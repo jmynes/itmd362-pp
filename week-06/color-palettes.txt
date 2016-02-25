@@ -15,8 +15,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: Mono.png
+Explanation of your color choices: Because of Hollywood's influence, people conflate black or dark
+green with bright green as "1337," or cool and vaguely hacker-y or hardcore. Think: Matrix.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
