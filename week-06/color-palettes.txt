@@ -21,13 +21,8 @@ green with bright green as "1337," or cool and vaguely hacker-y or hardcore. Thi
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename: Shade.png
-Explanation of your color choices: Normally, I'd've chosen green, because of its association with 
-vegetables. However, I already chose green for the laptop website, and wanted to challenge myself to 
-pick a different but applicable pallet. Let's face it, a lot of the marketing around Organic centers 
-around image. Where do people care about image? Social media. What colors are similar to the ones I 
-chose? The colors used by Tumblr and Facebook. This might serve to subliminially tell customers to share
-their brand on their favorite social media, and may be reminiscent of "superfoods" like blueberries.
+Filename:
+Explanation of your color choices:
 
 * A complementary palette for a banking website.
 
