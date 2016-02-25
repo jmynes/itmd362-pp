@@ -39,5 +39,8 @@ complementary color, and resulted in a closer shade of green to what I was going
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: Triad.png
+Explanation of your color choices: I went for a pastel R/B/Y primary pigment color pallette. Pastel colors
+remind me of childhood watercolor paints and art class, where we learned that Red Blue and Yellow are the 
+primary colors. It also reminded me slightly of coloring Easter eggs, while maintaining RBY. The pastels 
+also make the colors less obnoxious to look at, rather than displaying bright yellow on the site.
