@@ -8,7 +8,7 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
+1. https://developer.mozilla.org/en-US/docs/Mozilla/Accessibility/What_needs_to_be_done_when_building_new_toolkits
 2.
 
 * Your own condensed, ten-item must-have usability checklist:
