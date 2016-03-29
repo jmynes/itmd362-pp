@@ -13,8 +13,8 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
+1. Custom 404/500 error pages that are useful and direct.
+2. 
 3.
 4.
 5.
