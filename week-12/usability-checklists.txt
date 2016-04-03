@@ -23,5 +23,5 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 7. Make sure the user knows where they are, perhaps breadcrumbs?
 8. Avoid A-Z sorting if any better system works
 https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/
-9. 
-10. 
+9. Emphasis such as bold and underline are to be used sparingly.
+10. URLs are to be meaningful, human readable. This should honestly be higher up the list.
