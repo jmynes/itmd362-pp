@@ -15,7 +15,7 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 0. CONSISTENCY. This bears being rule 0.
 1. Custom 404/500 error pages that are useful and direct.
-2. Buttons, forms, etc rather than links.
+2. Buttons, forms, etc rather than links. Links are descriptive, not just "click here"
 3. Dialogs/Windows/General keyboard input is standards compliant. (e.g. esc closes things and refocuses parent window)
 4. Does not conflict with system-set contrast/accessibility/theme settings (dark theme in gtk is a good litmus test)
 5. SSL certificate
