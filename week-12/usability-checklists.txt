@@ -20,7 +20,8 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 4. Does not conflict with system-set contrast/accessibility/theme settings (dark theme in gtk is a good litmus test)
 5. SSL certificate
 6. User testing from http://peek.usertesting.com/ (free and not someone involved with the development of it)
-7. 
-8. 
+7. Make sure the user knows where they are, perhaps breadcrumbs?
+8. Avoid A-Z sorting if any better system works
+https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/
 9. 
 10. 
