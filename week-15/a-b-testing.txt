@@ -9,7 +9,14 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 ## Deliverables
 
 * Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
+Done
 
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
+Done
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+The original site is written to 1999 HTML spec, and should be brought into HTML5. This will require removing all the formatting done in HTML with <br> and <hl> tags, and porting it to CSS.
+
+Additionally, the CSS should be broken out into its own file, and the HTML should be updated to use semantic tags for readability.
+
+Lastly, Media queries and relative units can be used to make content resize to the screen, before improving the color scheme.
